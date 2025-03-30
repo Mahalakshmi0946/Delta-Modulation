@@ -1,7 +1,7 @@
 # Delta-Modulation
-sDelta-Modulation
-Mahalakshmi .R
-212223060146
+
+# Mahalakshmi .R
+# 212223060146
 Aim:
 
 To Write a Python program to implement and visualize delta modulation and demodulation with low-pass filtering for signal reconstruction.
@@ -11,6 +11,7 @@ Tools required:
 Python software with scipy and numpy
 
 Program:
+```
 
 ## DELTA MODULATION 
 import numpy as np
@@ -80,7 +81,9 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
+```
 Output Waveform:
+![dm](https://github.com/user-attachments/assets/82e3ec39-70a2-4ce3-af9f-4385a2b921fe)
 
 
 
